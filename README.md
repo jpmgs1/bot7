@@ -4,7 +4,7 @@ pkg install bash
 
 pkg install git
 
-git clone https://github.com/FDLBOT/bot7
+git clone https://github.com/jpmgs1/bot7
 
 cd bot7
 
