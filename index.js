@@ -30,7 +30,7 @@ const vcard = 'BEGIN:VCARD\n' // OM JANGAN DI UBAH OM
             + 'ORG:Owner BOT;\n' // UBAH INI
             + 'TEL;type=CELL;type=VOICE;waid=447451209039:+44 7451 209039\n' // UBAH INI
             + 'END:VCARD' // WEEM DIHAPUS GUE BERHENTI UPDATE SCRIPT
-prefix = '#'
+prefix = '!'
 blocked = []
 
 function kyun(seconds){
